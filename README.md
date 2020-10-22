@@ -1,5 +1,5 @@
 # NewsApp-bloc
-Flutter news application using bloc pattern
+Recreate NewsApp using bloc pattern
 
 ## Backend API and Documentation
 
